@@ -1,10 +1,10 @@
-import 'package:blogify/app/app.initialize.dart';
-import 'package:blogify/app/app.router.dart';
-import 'package:blogify/main_viewmodel.dart';
-import 'package:blogify/utilities/constants/app_nums.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:musstarter/app/app.initialize.dart';
+import 'package:musstarter/app/app.router.dart';
+import 'package:musstarter/main_viewmodel.dart';
+import 'package:musstarter/utilities/constants/app_nums.dart';
 import 'package:stacked/stacked.dart';
 import 'package:stacked_services/stacked_services.dart';
 

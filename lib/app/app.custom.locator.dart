@@ -1,4 +1,4 @@
-import 'package:blogify/network/request_interceptor.dart';
+import 'package:musstarter/network/request_interceptor.dart';
 import 'package:stacked/stacked_annotations.dart';
 
 import '../network/clients/dio/dio_http_client.dart';

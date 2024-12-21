@@ -1,8 +1,8 @@
-import 'package:blogify/app/app.locator.dart';
-import 'package:blogify/mixin/viewmodel_supporter.dart';
-import 'package:blogify/services/app/theme_service.dart';
-import 'package:blogify/ui/themes/theme_modes.dart';
 import 'package:flutter/material.dart';
+import 'package:musstarter/app/app.locator.dart';
+import 'package:musstarter/mixin/viewmodel_supporter.dart';
+import 'package:musstarter/services/app/theme_service.dart';
+import 'package:musstarter/ui/themes/theme_modes.dart';
 import 'package:stacked/stacked.dart';
 
 class HomeViewModel extends IndexTrackingViewModel with ViewModelSupporter {

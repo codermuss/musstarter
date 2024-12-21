@@ -1,9 +1,9 @@
-import 'package:blogify/app/app.locator.dart';
-import 'package:blogify/mixin/viewmodel_supporter.dart';
-import 'package:blogify/models/response/onboarding/onboarding.dart';
-import 'package:blogify/services/api/onboarding_api_service.dart';
-import 'package:blogify/utilities/constants/app_strings.dart';
 import 'package:flutter/material.dart';
+import 'package:musstarter/app/app.locator.dart';
+import 'package:musstarter/mixin/viewmodel_supporter.dart';
+import 'package:musstarter/models/response/onboarding/onboarding.dart';
+import 'package:musstarter/services/api/onboarding_api_service.dart';
+import 'package:musstarter/utilities/constants/app_strings.dart';
 import 'package:stacked/stacked.dart';
 
 import '../../../app/app.router.dart';

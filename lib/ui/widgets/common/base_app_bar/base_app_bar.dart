@@ -1,8 +1,8 @@
-import 'package:blogify/localization/locale_keys.g.dart';
-import 'package:blogify/ui/styles/paddings.dart';
-import 'package:blogify/ui/widgets/common/locale_text/locale_text.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:musstarter/localization/locale_keys.g.dart';
+import 'package:musstarter/ui/styles/paddings.dart';
+import 'package:musstarter/ui/widgets/common/locale_text/locale_text.dart';
 
 import '../../../styles/text_styles.dart';
 

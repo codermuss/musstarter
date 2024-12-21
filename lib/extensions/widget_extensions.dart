@@ -1,5 +1,5 @@
-import 'package:blogify/ui/styles/paddings.dart';
 import 'package:flutter/material.dart';
+import 'package:musstarter/ui/styles/paddings.dart';
 
 extension PaddingExtension on Widget {
   Padding get p32a => Padding(padding: Paddings.p32a, child: this);

@@ -4,14 +4,14 @@
 // StackedNavigatorGenerator
 // **************************************************************************
 
-// ignore_for_file: no_leading_underscores_for_library_prefixes
-import 'package:blogify/ui/views/home/home_view.dart' as _i2;
-import 'package:blogify/ui/views/onboarding/onboarding_view.dart' as _i5;
-import 'package:blogify/ui/views/sign_in/sign_in_view.dart' as _i6;
-import 'package:blogify/ui/views/sign_up/sign_up_view.dart' as _i4;
-import 'package:blogify/ui/views/startup/startup_view.dart' as _i3;
 import 'package:flutter/material.dart' as _i7;
 import 'package:flutter/material.dart';
+// ignore_for_file: no_leading_underscores_for_library_prefixes
+import 'package:musstarter/ui/views/home/home_view.dart' as _i2;
+import 'package:musstarter/ui/views/onboarding/onboarding_view.dart' as _i5;
+import 'package:musstarter/ui/views/sign_in/sign_in_view.dart' as _i6;
+import 'package:musstarter/ui/views/sign_up/sign_up_view.dart' as _i4;
+import 'package:musstarter/ui/views/startup/startup_view.dart' as _i3;
 import 'package:stacked/stacked.dart' as _i1;
 import 'package:stacked_services/stacked_services.dart' as _i8;
 

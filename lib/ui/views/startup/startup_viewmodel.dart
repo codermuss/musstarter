@@ -1,6 +1,6 @@
-import 'package:blogify/app/app.locator.dart';
-import 'package:blogify/app/app.router.dart';
-import 'package:blogify/mixin/viewmodel_supporter.dart';
+import 'package:musstarter/app/app.locator.dart';
+import 'package:musstarter/app/app.router.dart';
+import 'package:musstarter/mixin/viewmodel_supporter.dart';
 import 'package:stacked/stacked.dart';
 import 'package:stacked_services/stacked_services.dart';
 

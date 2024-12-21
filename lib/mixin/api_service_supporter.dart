@@ -1,4 +1,4 @@
-import 'package:blogify/network/clients/dio/dio_http_client.dart';
+import 'package:musstarter/network/clients/dio/dio_http_client.dart';
 
 import '../app/app.locator.dart';
 

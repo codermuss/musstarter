@@ -1,6 +1,6 @@
-import 'package:blogify/app/app.locator.dart';
-import 'package:blogify/services/app/view_model_helper_service.dart';
 import 'package:i_toast/i_toast.dart';
+import 'package:musstarter/app/app.locator.dart';
+import 'package:musstarter/services/app/view_model_helper_service.dart';
 import 'package:stacked/stacked.dart';
 import 'package:stacked_services/stacked_services.dart';
 

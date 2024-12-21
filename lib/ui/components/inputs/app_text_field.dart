@@ -1,9 +1,9 @@
-import 'package:blogify/extensions/context_extensions.dart';
-import 'package:blogify/extensions/string_extensions.dart';
-import 'package:blogify/ui/styles/paddings.dart';
-import 'package:blogify/ui/styles/text_styles.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:musstarter/extensions/context_extensions.dart';
+import 'package:musstarter/extensions/string_extensions.dart';
+import 'package:musstarter/ui/styles/paddings.dart';
+import 'package:musstarter/ui/styles/text_styles.dart';
 
 import '../../styles/radiuses.dart';
 

@@ -1,4 +1,4 @@
-import 'package:blogify/extensions/string_extensions.dart';
+import 'package:musstarter/extensions/string_extensions.dart';
 
 import '../../localization/locale_keys.g.dart';
 

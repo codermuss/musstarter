@@ -1,8 +1,8 @@
-import 'package:blogify/app/app.router.dart';
-import 'package:blogify/mixin/viewmodel_supporter.dart';
-import 'package:blogify/models/request/auth/sign_up_request.dart';
-import 'package:blogify/models/response/auth/sign_up_response.dart';
-import 'package:blogify/services/api/auth_api_service.dart';
+import 'package:musstarter/app/app.router.dart';
+import 'package:musstarter/mixin/viewmodel_supporter.dart';
+import 'package:musstarter/models/request/auth/sign_up_request.dart';
+import 'package:musstarter/models/response/auth/sign_up_response.dart';
+import 'package:musstarter/services/api/auth_api_service.dart';
 import 'package:stacked/stacked.dart';
 
 import '../../../app/app.locator.dart';

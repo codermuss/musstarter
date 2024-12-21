@@ -1,6 +1,6 @@
-import 'package:blogify/localization/locales.dart';
-import 'package:blogify/utilities/constants/app_strings.dart';
 import 'package:easy_localization/easy_localization.dart';
+import 'package:musstarter/localization/locales.dart';
+import 'package:musstarter/utilities/constants/app_strings.dart';
 
 final class AppLocalization extends EasyLocalization {
   AppLocalization({super.key, required super.child})

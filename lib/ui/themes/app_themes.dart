@@ -1,6 +1,6 @@
-import 'package:blogify/ui/themes/dark/dark_theme.dart';
-import 'package:blogify/ui/themes/light/light_theme.dart';
 import 'package:flutter/material.dart';
+import 'package:musstarter/ui/themes/dark/dark_theme.dart';
+import 'package:musstarter/ui/themes/light/light_theme.dart';
 
 import 'brown/brown_theme.dart';
 

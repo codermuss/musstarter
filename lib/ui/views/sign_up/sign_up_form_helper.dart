@@ -1,6 +1,6 @@
-import 'package:blogify/models/request/auth/sign_up_request.dart';
-import 'package:blogify/ui/views/sign_up/sign_up_viewmodel.dart';
 import 'package:flutter/material.dart';
+import 'package:musstarter/models/request/auth/sign_up_request.dart';
+import 'package:musstarter/ui/views/sign_up/sign_up_viewmodel.dart';
 import 'package:stacked/stacked.dart';
 
 mixin SignUpFormHelper on StackedView<SignUpViewModel> {

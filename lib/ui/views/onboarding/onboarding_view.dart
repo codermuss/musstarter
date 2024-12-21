@@ -1,14 +1,14 @@
-import 'package:blogify/extensions/context_extensions.dart';
-import 'package:blogify/extensions/widget_extensions.dart';
-import 'package:blogify/localization/locale_keys.g.dart';
-import 'package:blogify/ui/styles/paddings.dart';
-import 'package:blogify/ui/styles/radiuses.dart';
-import 'package:blogify/ui/styles/spaces.dart';
-import 'package:blogify/ui/styles/text_styles.dart';
-import 'package:blogify/ui/widgets/common/locale_text/locale_text.dart';
-import 'package:blogify/ui/widgets/common/view_state_handler/view_state_handler.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:musstarter/extensions/context_extensions.dart';
+import 'package:musstarter/extensions/widget_extensions.dart';
+import 'package:musstarter/localization/locale_keys.g.dart';
+import 'package:musstarter/ui/styles/paddings.dart';
+import 'package:musstarter/ui/styles/radiuses.dart';
+import 'package:musstarter/ui/styles/spaces.dart';
+import 'package:musstarter/ui/styles/text_styles.dart';
+import 'package:musstarter/ui/widgets/common/locale_text/locale_text.dart';
+import 'package:musstarter/ui/widgets/common/view_state_handler/view_state_handler.dart';
 import 'package:stacked/stacked.dart';
 
 import '../../../models/response/onboarding/onboarding.dart';

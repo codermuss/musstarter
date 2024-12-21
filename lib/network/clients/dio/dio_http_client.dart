@@ -1,7 +1,7 @@
 import 'dart:io';
 
-import 'package:blogify/network/interface/i_network_service.dart';
 import 'package:dio/dio.dart';
+import 'package:musstarter/network/interface/i_network_service.dart';
 
 import '../../../models/base/base_reques.dart';
 import '../../../models/base/base_response.dart';

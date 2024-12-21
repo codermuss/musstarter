@@ -1,6 +1,6 @@
-import 'package:blogify/extensions/context_extensions.dart';
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/material.dart';
+import 'package:musstarter/extensions/context_extensions.dart';
 
 class BottomNavBar extends StatefulWidget {
   final ValueChanged<int> onTabSelected;

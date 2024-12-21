@@ -1,16 +1,16 @@
 import 'dart:developer';
 
-import 'package:blogify/app/app.locator.dart';
-import 'package:blogify/extensions/string_extensions.dart';
-import 'package:blogify/interfaces/i_storage_service.dart';
-import 'package:blogify/localization/locale_keys.g.dart';
-import 'package:blogify/models/base/base_response.dart';
-import 'package:blogify/models/base/view_state.dart';
-import 'package:blogify/services/app/hive_storage_service.dart';
-import 'package:blogify/utilities/constants/app_strings.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:i_toast/i_toast.dart';
+import 'package:musstarter/app/app.locator.dart';
+import 'package:musstarter/extensions/string_extensions.dart';
+import 'package:musstarter/interfaces/i_storage_service.dart';
+import 'package:musstarter/localization/locale_keys.g.dart';
+import 'package:musstarter/models/base/base_response.dart';
+import 'package:musstarter/models/base/view_state.dart';
+import 'package:musstarter/services/app/hive_storage_service.dart';
+import 'package:musstarter/utilities/constants/app_strings.dart';
 import 'package:stacked_services/stacked_services.dart';
 
 class ViewModelHelperService {

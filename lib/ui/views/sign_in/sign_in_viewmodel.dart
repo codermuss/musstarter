@@ -1,5 +1,5 @@
-import 'package:blogify/mixin/viewmodel_supporter.dart';
-import 'package:blogify/models/request/auth/sign_in_request.dart';
+import 'package:musstarter/mixin/viewmodel_supporter.dart';
+import 'package:musstarter/models/request/auth/sign_in_request.dart';
 import 'package:stacked/stacked.dart';
 
 import '../../../app/app.locator.dart';

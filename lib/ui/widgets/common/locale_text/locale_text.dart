@@ -1,5 +1,5 @@
-import 'package:blogify/extensions/string_extensions.dart';
 import 'package:flutter/material.dart';
+import 'package:musstarter/extensions/string_extensions.dart';
 
 class LocaleText extends Text {
   LocaleText(

@@ -1,6 +1,6 @@
-import 'package:blogify/ui/widgets/common/base_app_bar/base_app_bar.dart';
-import 'package:blogify/ui/widgets/common/base_view_skeleton/base_view_skeleton.dart';
 import 'package:flutter/material.dart';
+import 'package:musstarter/ui/widgets/common/base_app_bar/base_app_bar.dart';
+import 'package:musstarter/ui/widgets/common/base_view_skeleton/base_view_skeleton.dart';
 import 'package:stacked/stacked.dart';
 
 import '../../../localization/locale_keys.g.dart';

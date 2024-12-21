@@ -1,6 +1,6 @@
-import 'package:blogify/extensions/widget_extensions.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:musstarter/extensions/widget_extensions.dart';
 
 import '../../../../localization/locale_keys.g.dart';
 import '../../../../models/base/view_state.dart';

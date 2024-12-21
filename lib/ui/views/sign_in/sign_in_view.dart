@@ -1,10 +1,10 @@
-import 'package:blogify/extensions/widget_extensions.dart';
-import 'package:blogify/models/request/auth/sign_in_request.dart';
-import 'package:blogify/ui/components/buttons/app_button.dart';
-import 'package:blogify/ui/views/sign_in/sign_in_form_helper.dart';
-import 'package:blogify/ui/widgets/common/base_app_bar/base_app_bar.dart';
-import 'package:blogify/ui/widgets/common/base_view_skeleton/base_view_skeleton.dart';
 import 'package:flutter/material.dart';
+import 'package:musstarter/extensions/widget_extensions.dart';
+import 'package:musstarter/models/request/auth/sign_in_request.dart';
+import 'package:musstarter/ui/components/buttons/app_button.dart';
+import 'package:musstarter/ui/views/sign_in/sign_in_form_helper.dart';
+import 'package:musstarter/ui/widgets/common/base_app_bar/base_app_bar.dart';
+import 'package:musstarter/ui/widgets/common/base_view_skeleton/base_view_skeleton.dart';
 import 'package:stacked/stacked.dart';
 
 import '../../../localization/locale_keys.g.dart';

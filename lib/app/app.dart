@@ -1,18 +1,18 @@
-import 'package:blogify/ui/bottom_sheets/notice/notice_sheet.dart';
-import 'package:blogify/ui/dialogs/info_alert/info_alert_dialog.dart';
-import 'package:blogify/ui/views/home/home_view.dart';
-import 'package:blogify/ui/views/startup/startup_view.dart';
+import 'package:musstarter/services/api/auth_api_service.dart';
+import 'package:musstarter/services/api/onboarding_api_service.dart';
+import 'package:musstarter/services/app/encryption_service.dart';
+import 'package:musstarter/services/app/hive_storage_service.dart';
+import 'package:musstarter/services/app/theme_service.dart';
+import 'package:musstarter/services/app/view_model_helper_service.dart';
+import 'package:musstarter/ui/bottom_sheets/notice/notice_sheet.dart';
+import 'package:musstarter/ui/dialogs/info_alert/info_alert_dialog.dart';
+import 'package:musstarter/ui/views/home/home_view.dart';
+import 'package:musstarter/ui/views/onboarding/onboarding_view.dart';
+import 'package:musstarter/ui/views/sign_in/sign_in_view.dart';
+import 'package:musstarter/ui/views/sign_up/sign_up_view.dart';
+import 'package:musstarter/ui/views/startup/startup_view.dart';
 import 'package:stacked/stacked_annotations.dart';
 import 'package:stacked_services/stacked_services.dart';
-import 'package:blogify/services/app/theme_service.dart';
-import 'package:blogify/ui/views/sign_up/sign_up_view.dart';
-import 'package:blogify/ui/views/onboarding/onboarding_view.dart';
-import 'package:blogify/services/api/onboarding_api_service.dart';
-import 'package:blogify/services/api/auth_api_service.dart';
-import 'package:blogify/ui/views/sign_in/sign_in_view.dart';
-import 'package:blogify/services/app/hive_storage_service.dart';
-import 'package:blogify/services/app/encryption_service.dart';
-import 'package:blogify/services/app/view_model_helper_service.dart';
 // @stacked-import
 
 @StackedApp(

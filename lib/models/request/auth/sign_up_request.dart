@@ -1,5 +1,5 @@
-import 'package:blogify/models/base/base_reques.dart';
-import 'package:blogify/utilities/constants/app_request_keys.dart';
+import 'package:musstarter/models/base/base_reques.dart';
+import 'package:musstarter/utilities/constants/app_request_keys.dart';
 
 final class SignUpRequest extends BaseRequest {
   final String username;

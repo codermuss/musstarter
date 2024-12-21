@@ -1,16 +1,16 @@
 import 'dart:async';
 import 'dart:developer';
 
-import 'package:blogify/app/app.bottomsheets.dart';
-import 'package:blogify/app/app.custom.locator.dart';
-import 'package:blogify/app/app.dialogs.dart';
-import 'package:blogify/app/app.locator.dart';
-import 'package:blogify/localization/app_localization.dart';
-import 'package:blogify/main.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:musstarter/app/app.bottomsheets.dart';
+import 'package:musstarter/app/app.custom.locator.dart';
+import 'package:musstarter/app/app.dialogs.dart';
+import 'package:musstarter/app/app.locator.dart';
+import 'package:musstarter/localization/app_localization.dart';
+import 'package:musstarter/main.dart';
 
 import '../services/app/hive_storage_service.dart';
 

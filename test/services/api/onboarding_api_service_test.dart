@@ -1,6 +1,6 @@
-import 'package:blogify/app/app.locator.dart';
-import 'package:blogify/models/base/base_response.dart';
-import 'package:blogify/models/response/onboarding/onboarding.dart';
+import 'package:musstarter/app/app.locator.dart';
+import 'package:musstarter/models/base/base_response.dart';
+import 'package:musstarter/models/response/onboarding/onboarding.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/mockito.dart';
 

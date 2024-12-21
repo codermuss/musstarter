@@ -1,5 +1,5 @@
-import 'package:blogify/network/parser/dio_network_parser.dart';
 import 'package:dio/dio.dart';
+import 'package:musstarter/network/parser/dio_network_parser.dart';
 import 'package:pretty_dio_logger/pretty_dio_logger.dart';
 
 mixin DioHttpClientMixin {

@@ -1,12 +1,12 @@
-import 'package:blogify/app/app.locator.dart';
-import 'package:blogify/app/app.router.dart';
-import 'package:blogify/models/base/base_response.dart';
-import 'package:blogify/models/request/auth/sign_up_request.dart';
-import 'package:blogify/services/api/auth_api_service.dart';
-import 'package:blogify/services/app/view_model_helper_service.dart';
-import 'package:blogify/ui/views/sign_up/sign_up_viewmodel.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/mockito.dart';
+import 'package:musstarter/app/app.locator.dart';
+import 'package:musstarter/app/app.router.dart';
+import 'package:musstarter/models/base/base_response.dart';
+import 'package:musstarter/models/request/auth/sign_up_request.dart';
+import 'package:musstarter/services/api/auth_api_service.dart';
+import 'package:musstarter/services/app/view_model_helper_service.dart';
+import 'package:musstarter/ui/views/sign_up/sign_up_viewmodel.dart';
 import 'package:stacked_services/stacked_services.dart';
 
 import '../helpers/test_helpers.dart';

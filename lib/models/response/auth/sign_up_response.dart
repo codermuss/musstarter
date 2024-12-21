@@ -1,5 +1,5 @@
-import 'package:blogify/models/response/auth/sign_in_response.dart';
 import 'package:json_annotation/json_annotation.dart';
+import 'package:musstarter/models/response/auth/sign_in_response.dart';
 
 part 'sign_up_response.g.dart';
 

@@ -1,9 +1,9 @@
-import 'package:blogify/extensions/context_extensions.dart';
-import 'package:blogify/ui/components/navigation/tab_item.dart';
-import 'package:blogify/ui/styles/radiuses.dart';
-import 'package:blogify/ui/styles/text_styles.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:musstarter/extensions/context_extensions.dart';
+import 'package:musstarter/ui/components/navigation/tab_item.dart';
+import 'package:musstarter/ui/styles/radiuses.dart';
+import 'package:musstarter/ui/styles/text_styles.dart';
 
 final class AppTabBar extends StatefulWidget {
   const AppTabBar({

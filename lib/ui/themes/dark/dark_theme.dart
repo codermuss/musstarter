@@ -1,5 +1,5 @@
-import 'package:blogify/ui/themes/dark/dark_color_palette.dart';
 import 'package:flutter/material.dart';
+import 'package:musstarter/ui/themes/dark/dark_color_palette.dart';
 
 import '../app_theme_colors.dart';
 
